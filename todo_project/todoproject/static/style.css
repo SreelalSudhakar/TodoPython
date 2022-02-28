@@ -1,0 +1,10 @@
+.banner{
+    height: 200px;
+}
+
+.banner-text{
+    top: 15%;
+    left: 47%;
+    position: absolute;
+    transform: transform;
+}
